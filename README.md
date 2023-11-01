@@ -8,7 +8,7 @@ All have been developed, by me (unless otherwise stated), in Python3, which I'm 
 
 If you don't know what PAGE is, then please [visit the SOURCE**FORGE** repo](https://sourceforge.net/projects/page/) for details about PAGE:~ My deepest thanks to both Greg Walters and Don Rozenberg for all their hard work and dedication to PAGE, over the years.
 
-PAGE is a fantastic framework and will save you hours of work, when you need to develop a Tkinter based GUI for your Python3 application. Greg has also produced [this book](https://www.amazon.com/Python-GUI-Programming-PAGE-professional-looking-ebook/dp/B0C6K7WD98) and is always happy to answer any questions that you may have.
+PAGE is a fantastic framework and will save you hours of work, when you need to develop a Tkinter based GUI for your Python3 application. Greg has also produced [this book](https://www.amazon.com/Python-GUI-Programming-PAGE-professional-looking/dp/9355518374) and is always happy to answer any questions that you may have.
 
 You can see some of his work from these links:
 
