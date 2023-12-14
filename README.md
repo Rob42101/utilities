@@ -2,7 +2,7 @@
 
 A few Utility Applications that I use from time to time and which others may also find useful.
 
-All have been developed, by me (unless otherwise stated), in Python3, which I'm sure that you will have heard about, some will use the Tkinter GUI framework, which you may of heard about, and others will have been developed using the PAGE drag-and-drop GUI generator.
+All have been developed, by me (unless otherwise stated), in Python3, which I'm sure that you will have heard about, some will use the Tkinter GUI library, which you may of heard about, and others will have been developed using the PAGE drag-and-drop GUI generator.
 
 ### PAGE
 
